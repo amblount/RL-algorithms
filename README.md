@@ -12,6 +12,7 @@ you will probably come across multiple implementations of the exact same algorit
 - [Hands on ML - DeepRL Ex](https://github.com/ageron/handson-ml/blob/master/16_reinforcement_learning.ipynb)
 - [Tensorflow Guide](https://www.tensorflow.org/guide)
 - [Introuoduction to Tensorflow 2.0 Oreilly](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
+- [TF2.0 Algorithm Implementations](https://github.com/YunYang1994/TensorFlow2.0-Examples)
 
 
 
